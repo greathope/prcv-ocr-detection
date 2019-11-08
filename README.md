@@ -1,7 +1,7 @@
 
 # prcv-ocr-detection
 prcv [面向自动阅卷的OCR技术挑战赛](http://vipl.ict.ac.cn/homepage/prcv2019-OCR-challenge/index.htm)-检测任务一等奖代码
-水赛, 无竞争可言, 但很开心hhh
+* 水赛, 无竞争可言, 但很开心hhh, 代码大同小异, 抛砖引玉
 
 ## 环境配置
 * 参见[mmdetection](https://github.com/open-mmlab/mmdetection)的安装
