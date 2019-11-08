@@ -1,0 +1,2 @@
+command: python $program/cal_hmean.py $input $output
+description: Evaluation program for detection task. This program should be conducted with python3. Python module shapely is needed for this program. Module shapely can be installed by "pip install shapely".
